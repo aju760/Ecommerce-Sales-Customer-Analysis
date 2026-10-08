@@ -120,7 +120,7 @@ Ecommerce-Sales-Customer-Analysis
 
 ## Dashboard Preview
 
-![E-Commerce Sales Dashboard](Dashboard.png)
+![E-Commerce Sales Dashboard](./Dashboard.png)
 
 ## Author
 
