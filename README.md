@@ -106,9 +106,10 @@ Customer segments and payment methods were analyzed to understand purchasing beh
 
 ## Project Structure
 
-```text
+## Project Structure
+
 Ecommerce-Sales-Customer-Analysis
-│
+
 ├── Ecommerce_Sales_Customer_Cleaned_Analysis.xlsx
 ├── Dashboard.png
 └── README.md
