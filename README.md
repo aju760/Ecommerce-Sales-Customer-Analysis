@@ -120,14 +120,10 @@ Ecommerce-Sales-Customer-Analysis
 
 ## Dashboard Preview
 
-![E-Commerce Sales Dashboard](Screenshots/dashboard.png)
+![E-Commerce Sales Dashboard](Dashboard.png)
 
 ## Author
 
 **Ajay Kumar**
 
 GitHub: https://github.com/aju760
-
-│
-└── Screenshots
-    └── dashboard.png
