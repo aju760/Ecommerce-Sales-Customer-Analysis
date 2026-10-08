@@ -109,20 +109,13 @@ Customer segments and payment methods were analyzed to understand purchasing beh
 ```text
 Ecommerce-Sales-Customer-Analysis
 │
-├── Dataset
-│   └── Ecommerce_Sales_Customer_Cleaned_Analysis.xlsx
-│
-├── Dashboard
-│   └── Ecommerce_Sales_Dashboard.xlsx
-│
-└── Screenshots
-    └── dashboard.png
+├── Ecommerce_Sales_Customer_Cleaned_Analysis.xlsx
+├── Dashboard.png
+└── README.md
 
 ## Dashboard Preview
 
-<h2>Dashboard Preview</h2>
-
-<img src="Dashboard.png" alt="E-Commerce Sales Dashboard">
+<img src="./Dashboard.png" alt="E-Commerce Sales Dashboard">
 
 ## Author
 
